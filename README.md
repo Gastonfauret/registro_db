@@ -96,4 +96,7 @@ Cualquier cliente puede acceder al endpoint /registrar (no hay autenticación).
 
 👨‍💻 Autor
 Gaston Fauret
-Frontend y Movil Developer.
+Frontend y Movil Developer at Gula|devs.
+<a href="https://www.linkedin.com/in/gastonfauret/">LinkedIn</a> | <a href="https://github.com/Gastonfauret">GitHub</a> | <a href="https://wa.me/542281595799">Whatsapp</a>
+
+
